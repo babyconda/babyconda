@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there 👋 I'm Prem Yadav</h1>
-<h3 align="center">🚀 Ex-entrepreneur turned self-taught full stack developer, now working as a Full-Stack Software Engineer. Passionate about building impactful products, always curious, driven by big dreams, and excited to take on challenging problems to create extraordinary solutions.</h3>
+<h4 align="center">🚀 Ex-entrepreneur turned self-taught full stack developer, now working as a Full-Stack Software Engineer. Passionate about building impactful products, always curious, driven by big dreams, and excited to take on challenging problems to create extraordinary solutions.</h3>
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Typing.gif" />
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
 
 🔭 **I’m currently working on:** Full-stack web projects using the MERN stack  
 🌱 **I’m currently learning:** Advanced system design & cloud architecture  
@@ -11,6 +12,13 @@
 📫 **How to reach me:** dev.premyadav@gmail.com or LinkedIn  
 😄 **Pronouns:** He/Him  
 ⚡ **Fun fact:** I started as an entrepreneur before becoming a developer — still building big dreams every day 🚀
+
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Typing.gif" width="350" />
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/premyadav17)
