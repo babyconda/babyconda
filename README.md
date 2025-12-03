@@ -1,19 +1,16 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Prem Yadav</h1>
+<h3 align="center">🚀 Ex-entrepreneur turned self-taught full stack developer, now working as a Full-Stack Software Engineer. Passionate about building impactful products, always curious, driven by big dreams, and excited to take on challenging problems to create extraordinary solutions.</h3>
 
-<!--
-**babyconda/babyconda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Code.gif" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **I’m currently working on:** Full-stack web projects using the MERN stack  
+🌱 **I’m currently learning:** Advanced system design & cloud architecture  
+👯 **I’m looking to collaborate on:** Innovative web apps, AI-powered tools, and open-source projects  
+🤔 **I’m looking for help with:** Improving large-scale app performance and scalability  
+💬 **Ask me about:** MERN stack, full-stack development, API design, and frontend architecture  
+📫 **How to reach me:** dev.premyadav@gmail.com or LinkedIn  
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I started as an entrepreneur before becoming a developer — still building big dreams every day 🚀
 
 
 ## 🌐 Socials:
