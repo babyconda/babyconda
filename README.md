@@ -4,19 +4,19 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
 
-🔭 **I’m currently working on:** Full-stack web projects using the MERN stack  
-🌱 **I’m currently learning:** Advanced system design & cloud architecture  
-👯 **I’m looking to collaborate on:** Innovative web apps, AI-powered tools, and open-source projects  
-🤔 **I’m looking for help with:** Improving large-scale app performance and scalability  
-💬 **Ask me about:** MERN stack, full-stack development, API design, and frontend architecture  
-📫 **How to reach me:** dev.premyadav@gmail.com or LinkedIn  
-😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** I started as an entrepreneur before becoming a developer — still building big dreams every day 🚀
+🔭 I’m currently working on:** Full-stack web projects using the MERN stack  
+🌱 I’m currently learning:** Advanced system design & cloud architecture  
+👯 I’m looking to collaborate on:** Innovative web apps, AI-powered tools, and open-source projects  
+🤔 I’m looking for help with:** Improving large-scale app performance and scalability  
+💬 Ask me about:** MERN stack, full-stack development, API design, and frontend architecture  
+📫 How to reach me:** dev.premyadav@gmail.com or LinkedIn  
+😄 Pronouns:** He/Him  
+⚡ Fun fact:** I started as an entrepreneur before becoming a developer — still building big dreams every day 🚀
 
   </div>
-
+https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif
   <div>
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Typing.gif" width="350" />
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350" />
   </div>
 </div>
 
